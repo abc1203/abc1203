@@ -4,7 +4,7 @@ Hi there! My name is Jason Chen, and I'm currently a third-year Computer Science
 
 You can connect with me through [LinkedIn](https://www.linkedin.com/in/jason-chen-11469b173/). I'm always happy to discuss exciting ideas and tech-related topics!
 
-Searching for Fall 2024 co-ops...
+Searching for Summer & Fall 2025 internships!
 
 ## Experiences
  - :desktop_computer: Application Developer @ [CIBC](https://www.linkedin.com/company/cibc/) (Winter 2024)
