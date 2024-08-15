@@ -7,6 +7,7 @@ You can connect with me through [LinkedIn](https://www.linkedin.com/in/jason-che
 Searching for Summer & Fall 2025 internships!
 
 ## Experiences
+ - :handbag: Infrastructure Engineer @ [Shopify](https://www.linkedin.com/company/shopify/) [Fall 2024]
  - :desktop_computer: Application Developer @ [CIBC](https://www.linkedin.com/company/cibc/) (Winter 2024)
  - :keyboard: Full-stack Developer @ [SS&C Technologies](https://www.linkedin.com/company/ss-c-technologies/) (Summer 2023)
  - :floppy_disk: Data Scientist @ [ALS GoldSpot Discoveries Ltd](https://www.linkedin.com/company/goldspot-discoveries-inc./) (Fall 2022)
