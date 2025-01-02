@@ -4,13 +4,14 @@ Hi there! My name is Jason Chen, and I'm currently a third-year Computer Science
 
 You can connect with me through [LinkedIn](https://www.linkedin.com/in/jason-chen-11469b173/). I'm always happy to discuss exciting ideas and tech-related topics!
 
-Searching for Summer & Fall 2025 internships!
+Searching for Fall 2025 internships!
 
 ## Experiences
- - :shopping: Infrastructure Engineer @ [Shopify](https://www.linkedin.com/company/shopify/) (Fall 2024)
- - :chart_with_upwards_trend: Application Developer @ [CIBC](https://www.linkedin.com/company/cibc/) (Winter 2024)
- - :desktop_computer: Full-stack Developer @ [SS&C Technologies](https://www.linkedin.com/company/ss-c-technologies/) (Summer 2023)
- - :floppy_disk: Data Scientist @ [ALS GoldSpot Discoveries Ltd](https://www.linkedin.com/company/goldspot-discoveries-inc./) (Fall 2022)
+ - :feather: Incoming Backend Engineering Intern @ [Robinhood](https://www.linkedin.com/company/robinhood/) (Summer 2025)
+ - :shopping: Infrastructure Engineering Intern @ [Shopify](https://www.linkedin.com/company/shopify/) (Fall 2024)
+ - :chart_with_upwards_trend: Application Developer Intern @ [CIBC](https://www.linkedin.com/company/cibc/) (Winter 2024)
+ - :desktop_computer: Full-stack Developer Intern @ [SS&C Technologies](https://www.linkedin.com/company/ss-c-technologies/) (Summer 2023)
+ - :floppy_disk: Data Scientist Intern @ [ALS GoldSpot Discoveries Ltd](https://www.linkedin.com/company/goldspot-discoveries-inc./) (Fall 2022)
 
 ## Tech Stack
 
