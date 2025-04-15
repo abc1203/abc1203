@@ -1,6 +1,6 @@
 
 
-Hi there! My name is Jason Chen, and I'm currently a third-year Computer Science & Data Science student at the University of Waterloo. Currently, my main area of interest is in backend & infrastructure, but I'm also passionate about AI/ML, data science, and various kinds of problem-solving.
+Hi there! My name is Jason Chen, and I'm currently a fourth-year Computer Science & Data Science student at the University of Waterloo. Currently, my main area of interest is in backend & infrastructure, but I'm also passionate about AI/ML, data science, and various kinds of problem-solving.
 
 You can connect with me through [LinkedIn](https://www.linkedin.com/in/jason-chen-11469b173/). I'm always happy to discuss exciting ideas and tech-related topics!
 
