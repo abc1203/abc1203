@@ -7,7 +7,7 @@ You can connect with me through [LinkedIn](https://www.linkedin.com/in/jason-che
 Searching for Fall 2025 internships!
 
 ## Experiences
- - :feather: Incoming Backend Engineering Intern @ [Robinhood](https://www.linkedin.com/company/robinhood/) (Summer 2025)
+ - :feather: Backend Engineering Intern @ [Robinhood](https://www.linkedin.com/company/robinhood/) (Summer 2025)
  - :shopping: Infrastructure Engineering Intern @ [Shopify](https://www.linkedin.com/company/shopify/) (Fall 2024)
  - :chart_with_upwards_trend: Application Developer Intern @ [CIBC](https://www.linkedin.com/company/cibc/) (Winter 2024)
  - :desktop_computer: Full-stack Developer Intern @ [SS&C Technologies](https://www.linkedin.com/company/ss-c-technologies/) (Summer 2023)
