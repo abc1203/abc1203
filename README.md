@@ -4,7 +4,7 @@ Hi there! My name is Jason Chen, and I'm currently a fourth-year Computer Scienc
 
 You can connect with me through [LinkedIn](https://www.linkedin.com/in/jason-chen-11469b173/). I'm always happy to discuss exciting ideas and tech-related topics!
 
-Searching for Fall 2025 internships!
+Searching for 2026 New Grad positions!
 
 ## Experiences
  - :feather: Backend Engineering Intern @ [Robinhood](https://www.linkedin.com/company/robinhood/) (Summer 2025)
